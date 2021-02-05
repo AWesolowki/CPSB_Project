@@ -1,0 +1,7 @@
+rfm95.c:85:13:rfm95_read	32	static
+rfm95.c:104:13:rfm95_write	24	static
+rfm95.c:119:13:rfm95_reset	16	static
+rfm95.c:127:6:rfm95_init	24	static
+rfm95.c:177:6:rfm95_set_power	24	static
+rfm95.c:203:13:rfm95_send_package	32	static
+rfm95.c:289:6:rfm95_send_data	128	static
